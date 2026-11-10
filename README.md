@@ -216,7 +216,7 @@ Example payload structure:
 Example MQTT topic:
 
 ```text
-rd09h/gw01/node/1/data
+plant/gw01/node/1/data
 ```
 
 The payload above illustrates the telemetry structure; actual register values and field names depend on the active firmware configuration.
