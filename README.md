@@ -22,8 +22,11 @@ The architecture is designed to reduce long-distance RS485 wiring and simplify i
 
 ## Project Prototype
 
-<img width="1120" height="1404" alt="LoRa Gateway and Modbus Node" src="https://github.com/user-attachments/assets/bd49cb1c-0afc-4afa-8255-f974358f50eb" />
-
+<p align="center">
+  <img src="YOUR_EXISTING_IMAGE_PATH" 
+       alt="Industrial LoRa Gateway and Modbus Node Prototype"
+       width="480">
+</p>
 
 ## System Architecture
 
