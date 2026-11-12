@@ -20,6 +20,11 @@ The system consists of:
 
 The architecture is designed to reduce long-distance RS485 wiring and simplify industrial equipment monitoring.
 
+## Project Prototype
+
+<img width="1120" height="1404" alt="LoRa Gateway and Modbus Node" src="https://github.com/user-attachments/assets/bd49cb1c-0afc-4afa-8255-f974358f50eb" />
+
+
 ## System Architecture
 
 ```text
