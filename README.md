@@ -123,11 +123,10 @@ The system consists of:
 | Parameter | Current design |
 |---|---|
 | Wireless technology | LoRa |
-| Radio platform | STM32WL LoRa SoC (Ai-Thinker RA-09H) |
 | Frequency band | 865–867 MHz (IN865) |
-| Gateway controller | ESP32-C6 (Wi-Fi) |
 | Field communication | Modbus RTU master |
 | Physical interface | RS485 |
+| Gateway backhaul | Wi-Fi |
 | Gateway output | MQTT (JSON) |
 | Security | AES-128 encryption and authentication, authorised-device onboarding |
 | Default reporting interval | 2 seconds (configurable) |
@@ -231,9 +230,9 @@ Time-slot scheduling is planned to support many nodes per gateway at short inter
 
 **Project Category:** Industrial IoT / Embedded Systems
 
-**Core Technologies:** Embedded C, STM32WL, ESP32-C6, LoRa, Modbus RTU, RS485, MQTT, AES-128
+**Core Technologies:** Embedded C, LoRa, Modbus RTU, RS485, Wi-Fi, MQTT, AES-128
 
 **Development:** Hardware and firmware development, wireless communication, protocol design and system integration.
 
 This repository documents the system architecture, features and development progress. Source code,
-protocol internals and security implementation details are not published.
+hardware details, protocol internals and security implementation details are not published.
