@@ -25,9 +25,11 @@ The system consists of:
 
 ## Project Prototype
 
-<!-- keep your existing prototype images here -->
+<p align="center">
+  <img src="Images/LoRa%20Gateway%20and%20Modbus%20Node.png" alt="LoRa Gateway and Modbus Node Prototype" width="700">
+</p>
 
-LoRa Gateway and Modbus Node Prototype
+<p align="center"><i>Industrial LoRa Gateway and Modbus Node hardware prototype</i></p>
 
 ---
 
@@ -228,6 +230,8 @@ Time-slot scheduling is planned to support many nodes per gateway at short inter
 ## Project Information
 
 **Project Category:** Industrial IoT / Embedded Systems
+
+**Core Technologies:** Embedded C, STM32WL, ESP32-C6, LoRa, Modbus RTU, RS485, MQTT, AES-128
 
 **Development:** Hardware and firmware development, wireless communication, protocol design and system integration.
 
